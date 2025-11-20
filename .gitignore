@@ -1,0 +1,20 @@
+# entorno virtual
+venv/
+
+# cachés de Python
+__pycache__/
+*.pyc
+
+# directorios con mensajes/transacciones locales
+inbox/
+outbox/
+verified/
+
+# estado local de nonces
+nonces.json
+
+# keystore personal (cada quien genera el suyo)
+app/keystore.json
+
+# archivos de macOS
+.DS_Store

@@ -1,0 +1,4 @@
+cryptography
+pynacl
+argon2-cffi
+pycryptodome
